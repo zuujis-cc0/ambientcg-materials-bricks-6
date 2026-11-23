@@ -1,5 +1,7 @@
 {
- "assets": {},
+ "assets": {
+  "Bricks113B": "7e779e5494cfbcf8e86357ae7ab8cf7db5a4a16b"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
